@@ -1,0 +1,8 @@
+Erinevate IKT turvameetodite kasutamine,87
+Tarkvara varskemate versioonide kasutamine,73
+Andmete varundamine eraldi keskkonda,66
+Tugev paroolide autentimine,63
+Vorgujuurdepaasu kontroll,60
+VPN-i kasutamine,39
+IKT turvatestid,29
+IKT riskianaluuside teostamine,24
